@@ -1,3 +1,3 @@
 # remove_space
 
-Remove todos os espaços em branco mesmo estando em sequência como "  " ou "     " de uma string e substitui pelo caracter desejato
+Remove todos os espaços em branco mesmo estando como um ou mais espaços juntos de uma string e substitui pelo caracter desejado.
